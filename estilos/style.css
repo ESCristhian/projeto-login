@@ -60,22 +60,3 @@ section#login {
     display: block;
     padding: 10px;
 }
-
-input {
-    background-color: #74d3d0;
-    border: 2px solid purple;
-    width: 180px;
-    height: 35px;
-}
-
-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    font-variant: small-caps;
-}
-
-a {
-    text-decoration: none;
-    color: var(--verde);
-    border: 2px solid cyan;
-}
