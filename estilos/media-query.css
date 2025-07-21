@@ -7,19 +7,19 @@
 
     section#login {
         width: 90vw;
-        height: 40vh;
+        height: 50vh;
     }
 
     #imagem {
         float: left;
         width: 40vw;
-        height: 40vh;
+        height: 50vh;
     }
 
     #formulario {
         float: right;
         width: 50vw;
-        height: 40vh;
+        height: 50vh;
     }
 }
 
@@ -27,7 +27,7 @@
     main {
         background-image: linear-gradient(to top, #49a09d, #5f2c82 );
     }
-    
+
     section#login {
         width: 990px;
         height: 400px;
@@ -43,5 +43,13 @@
         float: left;
         width: 540px;
         height: 400px;
+    }
+
+    #formulario p {
+        font-size: 1.2em;
+    }
+
+    #formulario h1 {
+        font-size: 2em;
     }
 }
