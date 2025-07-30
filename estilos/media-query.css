@@ -3,6 +3,11 @@
 @media screen and (min-width: 800px) and (max-width: 992px) {
     main {
         background-image: linear-gradient(to top, #49a09d, #5f2c82 );
+
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        justify-content: center;
     }
 
     section#login {
@@ -26,6 +31,11 @@
 @media screen and (min-width: 992px) {
     main {
         background-image: linear-gradient(to top, #49a09d, #5f2c82 );
+
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        justify-content: center;
     }
 
     section#login {
